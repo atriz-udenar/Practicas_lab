@@ -1,0 +1,3 @@
+# Exploración
+
+La cuarta misión para nuestro robot es exploración: al igual que en las misiones anteriores, aquí tomamos inspiración de comportamientos de animales sociales que son capaces de explorar su entorno, buscar fuentes de alimento, y dar valor a la fuente de alimento según sus características.  En esta misión, el robot debe explorar su entorno, identificar 4 fuentes de alimento, y caracterizarlas según su valor (tamaño de la fuente). 
