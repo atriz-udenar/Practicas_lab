@@ -10,7 +10,7 @@ Estas primeras prácticas constan de cuatro misiones:
 3. [Toma de decisiones](Practica_3/Practica3.md) 
 4. [Exploración](Practica_4/Practica4.md) 
 
-Cada mision presenta un reto que el robot debe cumplir, en las carpetas de este repositorio encontraras más infromación sobre las misiones y el material necesario para desarrollarlas. Así como tmabién encontrarás una carpeta llamada `Codigos` en la que encontraras algunas soluciones a estos retos, de las que puedes ayudarte o comparar tu respuesta.
+Cada mision presenta un reto que el robot debe cumplir, en las carpetas de este repositorio encontraras más infromación sobre las misiones y el material necesario para desarrollarlas. Así como tmabién encontrarás una carpeta llamada [`Codigos`](codigos) en la que encontraras algunas soluciones a estos retos, de las que puedes ayudarte o comparar tu respuesta.
 
 
 > [!NOTE]
