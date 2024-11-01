@@ -5,7 +5,7 @@ La cuarta misión para nuestro robot es exploración: al igual que en las mision
 ## Robot 
 Para esta misión vamos a usar el robot ***EV3 leJOS 0.9.1***.
 ## Escenario 
-La misión se desarrolla en un escenario que contiene cuatro regiones de interés de diferentes colores (negra `rgb(0,0,0)`, azul `rgb(0,0,255)`, roja `rgb(255,0,0)` y amarilla `rgb(255,255,0)`). 
+La misión se desarrolla en un escenario que contiene cuatro regiones de interés de diferentes colores (negra :black_circle:, azul :large_blue_circle:, roja :red_circle: y amarilla `:yellow_circle:). 
 
 Las cuatro regiones representan fuentes de alimento, y pueden tener cuatro tamaños diferentes (pequeña, mediana, grande y gigante); ver ejemplo en la imagen adjunta.  Las combinaciones de color/tamaño pueden cambiar. Por ejemplo, un escenario puede tener una región roja/pequeña de alimento, mientras en otro escenario se puede encontrar una región roja/gigante de alimento.
 

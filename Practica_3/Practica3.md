@@ -5,8 +5,8 @@ La tercera misión para nuestro robot es la toma de decisiones: un comportamient
 ## Robot 
 Para esta misión vamos a usar el robot ***EV3 leJOS 0.9.1***.
 ## Escenario
-La misión se desarrolla en un escenario que contiene dos regiones de interés: una región roja `rgb(255,0,0)` que representa la fuente de alimento, y una región azul `rgb(0,0,255)` que representa el nido al que deben transportarlo. 
-Las regiones están conectadas por dos caminos de diferente longitud; marcados con color negro `rgb(0,0,0)` (ejemplo en imagen adjunta). 
+La misión se desarrolla en un escenario que contiene dos regiones de interés: una región roja :red_circle: que representa la fuente de alimento, y una región azul :large_blue_circle: que representa el nido al que deben transportarlo. 
+Las regiones están conectadas por dos caminos de diferente longitud; marcados con color negro :black_circle: (ejemplo en imagen adjunta). 
 
 Se entiende que el robot ha recogido 1 unidad de alimento cuando este entra en la fuente de alimento, y luego se desplaza y entra en el nido. Las posiciones del nido y la fuente de alimento no cambian; pero _la posición y longitud de los caminos que las unen si pueden cambiar_. Esto no debe impedir que el robot cumpla su tarea.
 >[!IMPORTANT]
