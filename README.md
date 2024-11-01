@@ -16,6 +16,26 @@ Cada mision presenta un reto que el robot debe cumplir, en las carpetas de este 
 > [!NOTE]
 > Antes de mirar las soluciones por favor tomate el tiempo para planear tu algoritmo e implementar tu solución.
 
-> En este enlace puedes encontrar algunos videos demostrativos del desarrollo de estas misiones
+> [!IMPORTANT]
+> :globe_with_meridians: En estos enlaces puedes encontrar algunos videos demostrativos del desarrollo de estas misiones 
 
+### Videos demostrativos :point_left:
+- Inspección del color del suelo
+    - https://youtu.be/smLdyP759_g
+    - https://youtu.be/wqvC88Kq4mM
+    - https://youtu.be/H-dNhtfXtsM
+    - https://youtu.be/ADdNBlhLgNA
+- Foraging
+    - https://youtu.be/Qk0v4qrmm8Y
+    - https://youtu.be/yK7maxhpnWw
+    - https://youtu.be/lLFZ14EHDDc
+- Toma de decisiones
+    - https://youtu.be/J303VGnFwHg
+    - https://youtu.be/dnxK5k4Gx_4
+- Exploración
+    - https://youtu.be/7V5mTih6F_I
+    - https://youtu.be/ERBHk4GduFA
+    - https://youtu.be/_gAYFBunvRw
+
+# Buena suerte :space_invader:
 ## 
